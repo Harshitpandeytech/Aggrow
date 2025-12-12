@@ -42,4 +42,9 @@ Built using **React.js**, **JavaScript**, **Tailwind CSS**, and **Node.js**, the
 - Enable farmers to access useful crop insights easily.  
 - Digitize agricultural workflows through a clean web interface.  
 - Provide a lightweight, user-friendly system that can scale into a full farm-management tool.  
+---
+🚧 Project Under Construction 🚧
+👷‍♂️
+...
+
 
